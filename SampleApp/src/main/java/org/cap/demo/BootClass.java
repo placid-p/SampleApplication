@@ -9,7 +9,9 @@ show();
 	}
 	public static void show()
 	{
+		int a[]= {1,2,3};
 		System.out.println("Show method here");
 	}
+	
 
 }
