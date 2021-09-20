@@ -9,9 +9,10 @@ show();
 	}
 	public static void show()
 	{
-		int arr[]= {1,2,3};
-		System.out.println("Array added here");
+		int a[]= {1,2,3};
+		System.out.println("here conflict");
 		System.out.println("Show method here");
 	}
+	
 
 }
