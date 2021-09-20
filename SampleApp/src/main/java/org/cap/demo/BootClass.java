@@ -9,6 +9,8 @@ show();
 	}
 	public static void show()
 	{
+		int arr[]= {1,2,3};
+		System.out.println("Array added");
 		System.out.println("Show method here");
 	}
 
